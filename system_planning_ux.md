@@ -10,6 +10,14 @@ MacOS and WindowsOS: After installing, the downloaded files will fall into the d
 
 LinuxOS: For Linux software, not only can programs be installed from the internet but also can be directly installed from repositories through the Linux command line. The exact command differs, but it typically will require typing “$sudo” (command for each repository) install (software from said repository).
 
+## Works Cited
+
+GCF Global. "Basic Computer Skills: Installing Software on Your Windows PC." GCFGlobal.org, edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/. Accessed 11 Jan. 2022.
+
+"How to Install and Uninstall Software on a Mac." LaptopMag, 19 Jan. 2018, www.laptopmag.com/articles/install-unininstall-mac-software. Accessed 11 Jan. 2022.
+
+Seth Kenlon. "How to Install Software Applications on Linux." Opensource.com, opensource.com/article/18/1/how-install-apps-linux. Accessed 11 Jan. 2022.
+
 # Question 3: Consider  your digital counting system and the different types of system installation presented in the textbook. Justify the choice of one installation system for your digital counter. 
 
 For our digital counting system, a parallel changeover will work the best for us. Our counting system for our client is an important part of his life and is required to run 24 hours a day non-stop to ensure the client knows the time at any given time. By using a parallel changeover, we will be able to not only utilize and ensure the continuation of our old system but also implement our new system when it's completely done and stable swiftly with a low risk of failure. 
