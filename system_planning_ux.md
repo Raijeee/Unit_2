@@ -11,7 +11,9 @@ MacOS and WindowsOS: After installing, the downloaded files will fall into the d
 LinuxOS: For Linux software, not only can programs be installed from the internet but also can be directly installed from repositories through the Linux command line. The exact command differs, but it typically will require typing “$sudo” (command for each repository) install (software from said repository).
 
 MACOS: .dmg Apple Disk Image file
+
 WindowsOS: .exe executable file
+
 LinuxOS: .dpg datapackage file (executed in a terminal)
 
 ## Works Cited
